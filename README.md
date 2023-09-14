@@ -72,7 +72,8 @@ Possible KPIs:
 
  * Visualizing Dashboard: 
 
-         ![1694697153201](https://github.com/rakshithaelango/PWC_Virtual_Internship_Forage/assets/116090323/8febabc4-6dae-403e-abbb-b6308a7414c8)
+        (https://github.com/rakshithaelango/PWC_Virtual_Internship_Forage/assets/116090323/0eb41a6e-46a2-44c4-acab-c8506d5b4044)
+
 
 
 
